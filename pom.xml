@@ -61,8 +61,7 @@
                         <archive>
                             <manifest>
                                 <addClasspath>true</addClasspath>
-                                <mainClass>edu.pingpong.App</mainClass>
-                                <classpathPrefix>dependency-jars/</classpathPrefix>
+                                <mainClass>edu.pingpong.mollapp.App;</mainClass>
                             </manifest>
                         </archive>
                     </configuration>
