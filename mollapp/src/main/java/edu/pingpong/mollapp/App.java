@@ -1,4 +1,4 @@
-package edu.pingpong.mollapp.clientes;
+package edu.pingpong.mollapp;
 
 import intercepting.administrador.ProgramadorTasques;
 import intercepting.clients.Mollapp;
@@ -6,7 +6,7 @@ import intercepting.filtres.Autoritzacio;
 import intercepting.targets.Vehicle;
 import intercepting.filtres.Autenticacio;
 
-public class Mollapp {
+public class App {
     public static void main(String[] args) {
         /**
          * Configuració del programador de tasques del sistema amb el tipus de target
